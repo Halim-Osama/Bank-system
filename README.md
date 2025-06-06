@@ -84,7 +84,7 @@ This Bank Management System provides users with an intuitive graphical interface
 > *Available in the SRS document*:
 - DFD (Data Flow Diagram)[DFD.pdf](https://github.com/user-attachments/files/20626004/DFD.pdf)
 - ERD (Entity Relationship Diagram)[ERD Digram.pdf](https://github.com/user-attachments/files/20625841/ERD.Digram.pdf)
-- Class Diagram![Class Diagram.pdf](https://github.com/user-attachments/files/20626052/Class.Diagram.pdf)
+- Class Diagram[Class Diagram.pdf](https://github.com/user-attachments/files/20626052/Class.Diagram.pdf)
 - Use Case Diagram[Use case diagram.pdf](https://github.com/user-attachments/files/20625824/Use.case.diagram.pdf)
 - Use Cases[Use Cases.pdf](https://github.com/user-attachments/files/20625826/Use.Cases.pdf)
 
